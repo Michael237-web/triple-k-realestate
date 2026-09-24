@@ -70,10 +70,25 @@ For **agents and administrators**, it provides a dashboard to list new propertie
 ---
 
 ## 🖼️ Screenshots
+## 🖼️ Screenshots
 
-> Add screenshots after deployment. Suggested files inside `screenshots/`:
-> `home.png`, `properties.png`, `details.png`, `admin.png`, `about.png`, `contact.png`
+### 🏠 Homepage
+![Homepage](screenshots/home.png)
 
+### 🏘️ Property Listings
+![Properties](screenshots/properties.png)
+
+### 🏡 Property Details
+![Property Details](screenshots/details.png)
+
+### 🛠️ Admin Dashboard
+![Admin Dashboard](screenshots/admin.png)
+
+### ℹ️ About Page
+![About](screenshots/about.png)
+
+### 📞 Contact Page
+![Contact](screenshots/contact.png)
 ---
 
 ## 📁 Project Structure
