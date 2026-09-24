@@ -70,25 +70,17 @@ For **agents and administrators**, it provides a dashboard to list new propertie
 ---
 
 ## 🖼️ Screenshots
-## 🖼️ Screenshots
+
 
 ### 🏠 Homepage
-![Homepage](screenshots/home.png)
+![Homepage](properties/screenshots/home.png)
 
 ### 🏘️ Property Listings
-![Properties](screenshots/properties.png)
-
-### 🏡 Property Details
-![Property Details](screenshots/details.png)
-
-### 🛠️ Admin Dashboard
-![Admin Dashboard](screenshots/admin.png)
+![Properties](properties/screenshots/properties.png)
 
 ### ℹ️ About Page
-![About](screenshots/about.png)
+![About](properties/screenshots/about.png)
 
 ### 📞 Contact Page
-![Contact](screenshots/contact.png)
----
-
+![Contact](properties/screenshots/contact.png)
 ## 📁 Project Structure
