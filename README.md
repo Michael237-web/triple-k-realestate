@@ -8,6 +8,20 @@ A modern real estate platform for listing, browsing, and managing properties —
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ---
+## 🖼️ Screenshots
+
+
+### 🏠 Homepage
+![Homepage](properties/screenshots/home.png)
+
+### 🏘️ Property Listings
+![Properties](properties/screenshots/properties.png)
+
+### ℹ️ About Page
+![About](properties/screenshots/about.png)
+
+### 📞 Contact Page
+![Contact](properties/screenshots/contact.png)
 
 ## 📌 About
 
@@ -69,18 +83,5 @@ For **agents and administrators**, it provides a dashboard to list new propertie
 
 ---
 
-## 🖼️ Screenshots
 
-
-### 🏠 Homepage
-![Homepage](properties/screenshots/home.png)
-
-### 🏘️ Property Listings
-![Properties](properties/screenshots/properties.png)
-
-### ℹ️ About Page
-![About](properties/screenshots/about.png)
-
-### 📞 Contact Page
-![Contact](properties/screenshots/contact.png)
 ## 📁 Project Structure
